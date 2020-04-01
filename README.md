@@ -17,11 +17,13 @@ To get a local copy of the site:
 * Angular cli(As the frontend javascript framework)
 
 ## Behaviour Driven Development
+
 | Inputs |  Description | output|
 | :---         |          ---: |
 | Name   | The users name. `George kamau`|
 | Email     | The users email. ``eg usermail@gmail.com``   |
 | Message    | The message from the user.   |
+
 ## Bugs.
 
 1. no known Bugs 
