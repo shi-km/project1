@@ -1,8 +1,9 @@
-import { StrikethroughDirective } from './highlight.directive';
 
-describe('StrikethroughDirective', () => {
+import {HighlightDirective} from './highlight.directive';
+
+describe('HighlightDirective', () => {
   it('should create an instance', () => {
-    const directive = new highlightDirective();
+    const directive = new HighlightDirective();
     expect(directive).toBeTruthy();
   });
 });
