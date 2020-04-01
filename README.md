@@ -20,9 +20,9 @@ To get a local copy of the site:
 
 | Inputs |  Description | output|
 | :---         |          ---: |
-| Name   | The users name. `George kamau`|
-| Email     | The users email. ``eg usermail@gmail.com``   |
-| Message    | The message from the user.   |
+| name of the user  | quote description. `George `|
+| add quote   | quote added. ``No man is an island``   |
+| delete quote   | the quote is removed from list.   |
 
 ## Bugs.
 
