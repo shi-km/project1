@@ -1,9 +1,9 @@
 import { Directive,ElementRef,HostListener} from '@angular/core';
 
 @Directive({
-  selector: '[appStrikethrough]'
+  selector: '[apphighlight]'
 })
-export class StrikethroughDirective {
+export class highlightDirective {
 
     
   constructor(private elem:ElementRef){}
