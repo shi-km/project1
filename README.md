@@ -16,7 +16,7 @@ To get a local copy of the site:
 
 * Angular cli(As the frontend javascript framework)
 
-## Behaviour Driven Development
+## Behaviour Driven Development.
 
 | Inputs |  Description | output|
 | :---         |          ---: |
