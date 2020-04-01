@@ -14,15 +14,15 @@ To get a local copy of the site:
 
 ## Technologies used.
 
-* HTML5
 * Angular cli(As the frontend javascript framework)
-## BDD
+
+## Behaviour Driven Development
 
 | Inputs |  Description | output|
 | :---         |          ---: |
 | quote  | description. `entered quote`|
-| quote  | description. `entered quote`|
-| quote  | description. `entered quote`|
+| quote    | description. `entered quote`|
+| quote       | description. `entered quote`|
 
 ## Bugs.
 
