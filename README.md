@@ -38,6 +38,6 @@ George/quoote
 Website
 link.
 Language
-JavaScript
+Angular Framework
 link| Feb 28st | Added by GitHub
 LICENCE
