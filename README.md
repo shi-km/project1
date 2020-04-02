@@ -7,10 +7,10 @@ A web application for a quotes application that will help people get inspiration
 ## Setup.
 To get a local copy of the site:
 
-`git clone`link
-`Extract` the cloned file.
-`cd` to Quoote.
-*Launch* `index.html` file.
+* git clone 
+* Extract  the cloned file.
+* cd to Quoote.
+* Launch index.html file.
 
 ## Technologies used.
 
