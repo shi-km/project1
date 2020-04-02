@@ -1,5 +1,5 @@
  ## quotes
-[Check it out]( )
+[Check it out]( https://shi-km.github.io/project1/)
 ## Description.
 A web application for a quotes application that will help people get inspiration and also inspire others through adding their own quotes. Users can also be able to upvote or downvote the quotes and the quote with the highest upvote will be highlighted.
 ## Author
@@ -21,8 +21,8 @@ To get a local copy of the site:
 | Inputs |  Description | output|
 | :---         |          ---: |
 | name of the user  | quote description. `George `|
-| add quote   | quote added. ``No man is an island``   |
-| delete quote   | the quote is removed from list.   |
+| add quote    | quote added. ``No man is an island``   |
+| delete quote           | the quote is removed from list.   |
 
 ## Bugs.
 
