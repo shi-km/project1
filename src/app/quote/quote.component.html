@@ -1,13 +1,13 @@
 <div class="container" style="background-color: rgb(126, 124, 148);">
-  <h1>My Quote</h1>
+  <h1 style="text-align: center;">Quote Inspire </h1>
   <hr>
 
   <div class="row">
     <div class="col-md-6">
       <div *ngFor='let quote of quotes;let i = index'>
         <div>
-          <h6 id={{i}} appStrikethrough>{{quote.name}} Added on {{quote.completeDate|date|uppercase}}</h6>
-          <button (click)='toggleDetails(i)' class="btn btn-primary">Find Out</button>
+          <h6 id={{i}}>{{quote.name}} Added on {{quote.completeDate|date|uppercase}}</h6>
+          <button (click)='toggleDetails(i)' class="btn btn-primary">DISPLAY</button>
         </div>
 
         <div *ngIf='quote.showDescription'>
